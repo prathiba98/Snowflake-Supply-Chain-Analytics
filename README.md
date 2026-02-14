@@ -1,4 +1,5 @@
 # Snowflake Supply Chain Analytics  
+## Live app link: https://app-supply-chain-analytics-gimrkyl79pcxm673p5bbnr.streamlit.app/ 
 ### Cloud-Based Analytics System using Snowflake & Streamlit
 
 ---
