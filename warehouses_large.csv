@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,location
+1,Warehouse_1,Mumbai
+2,Warehouse_2,Delhi
+3,Warehouse_3,Bangalore
+4,Warehouse_4,Chennai
+5,Warehouse_5,Hyderabad
+6,Warehouse_6,Kolkata
+7,Warehouse_7,Pune
+8,Warehouse_8,Ahmedabad
+9,Warehouse_9,Jaipur
+10,Warehouse_10,Lucknow
